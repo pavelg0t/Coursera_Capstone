@@ -1,6 +1,6 @@
 # Exploring locations to open an Italian restaurant in London
 
-The objective of this project is to find the most suitable location(s) to open a new Italian restaurant in London using [Foursquare's Places API](https://developer.foursquare.com/docs/places-api/) and [Scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#clustering) machine learning module.
+The objective of this project is to find the most suitable location(s) to open a new Italian restaurant in London using [Foursquare's Places API](https://developer.foursquare.com/docs/places-api/) and [Scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#clustering) machine learning modules.
 
 
 For interactive graphics view the `IBM_Data_Science_Capstone_project_CleanVersion.html` file.
