@@ -3,9 +3,9 @@
 The objective of this project is to find the most suitable location(s) to open a new Italian restaurant in London using Foursquare's API and Scikit-learn machine learning module.
 
 
-For interactive graphics view the `.html` file.
+For interactive graphics view the `IBM_Data_Science_Capstone_project_CleanVersion.html` file.
 
-To run the Python code by yourself, see the `.ipynb` version.
+To run the Python code by yourself, see the `IBM_Data_Science_Capstone_project_CleanVersion.ipynb` version.
 
 Project's summary can be found in the `Report/Report.pdf`
 
